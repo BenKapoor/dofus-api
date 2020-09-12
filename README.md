@@ -17,4 +17,4 @@ Swagger :
 Lorsque l'application est lancée aller sur : http://localhost:8080/swagger-ui.html#/
 
 Javadoc :
-Accéder à la javadoc en suivant le chemin dans votre explorateur de fichier une fois le projet téléchargé: ../api-okao/doc/index.html
+Accéder à la javadoc en suivant le chemin dans votre explorateur de fichier une fois le projet téléchargé: ../dofus-api/doc.index.html
